@@ -121,6 +121,3 @@ This project demonstrates the use of **Terraform** to automate the creation of a
 - [Terraform Documentation](https://developer.hashicorp.com/terraform/docs)
 - [AWS S3 Documentation](https://docs.aws.amazon.com/s3/)
 - [AWS CLI Documentation](https://docs.aws.amazon.com/cli/)
-
-
-Would you like me to **also include an example Terraform `main.tf` code snippet inside the README**, so the project looks more complete for GitHub? Or keep it exactly like the reference README you provided?
