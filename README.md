@@ -3,6 +3,7 @@
 This project demonstrates the use of Terraform for automating AWS S3 bucket creation and object management. Terraform is an open-source Infrastructure as Code (IaC) tool that allows you to define and provision cloud resources declaratively using configuration files.
 
 Using this Terraform configuration, the S3 bucket and associated objects are secure, server-side encryption and blocks all public access. Additionally, the project automates the upload of multiple files into the bucket while maintaining folder structures.
+
 ---
 
 ## 📌 **Project Overview**
